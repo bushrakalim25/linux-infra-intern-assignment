@@ -36,5 +36,5 @@
 # Linux Infra Intern Assignment
 
 This repo contains my take-home assignment setup.
-OS: Ubuntu (WSL)
+OS: Ubuntu (VirtualBox VM)
 Repo initialized on June 14, 2026
