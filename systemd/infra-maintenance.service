@@ -1,0 +1,5 @@
+[Unit]
+Description=Infra Maintenance Service
+
+[Service]
+ExecStart=/root/linux-infra-intern-assignment/scripts/maintenance.sh
