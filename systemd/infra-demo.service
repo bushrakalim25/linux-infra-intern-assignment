@@ -1,0 +1,11 @@
+[Unit]
+Description=Infrastructure Demo Service
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/bin/bash -c 'while true; do echo "Infra Demo Service Running"; sleep 60; done'
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
