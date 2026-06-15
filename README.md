@@ -7,20 +7,20 @@
 - **docs/** → hardening-checklist.md, local-vm-reprovisioning.md, test-plan.md, troubleshooting.md
 - **evidence/** → screenshots of all milestones
 
-## 🎯 Milestones and Evidence
-- **Milestone 1: Setup** → evidence/milestone-1-setup.png
-- **Milestone 2: Service** → evidence/milestone-2-service.png
-- **Milestone 3: Validation** → evidence/milestone-3-validate.png
-- **Milestone 4: Timer** → evidence/milestone-4-timer.png
-- **Milestone 5: Maintenance + Docs**  
-  - evidence/milestone-5-infra-demo-env.png  
-  - evidence/milestone-5-infra-demo-service.png  
-  - evidence/milestone-5-infra-maintenance-service.png  
-  - evidence/milestone-5-infra-maintenance-timer.png  
-  - evidence/milestone-5-hardening-checklist.png  
-  - evidence/milestone-5-local-vm-reprovisioning.png  
-  - evidence/milestone-5-test-plan.png  
-  - evidence/milestone-5-troubleshooting.png  
+## 🎯 Evidence
+- **setup.png
+- **service.png
+- **validate.png
+- **timer.png
+- ** Maintenance + Docs**  
+  - infra-demo-env.png  
+  - infra-demo-service.png  
+  - infra-maintenance-service.png  
+  - infra-maintenance-timer.png  
+  - hardening-checklist.png  
+  - local-vm-reprovisioning.png  
+  - test-plan.png  
+  - troubleshooting.png  
 
 ## 📑 Documentation
 - docs/hardening-checklist.md  
