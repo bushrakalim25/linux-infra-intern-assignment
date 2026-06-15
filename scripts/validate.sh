@@ -3,7 +3,7 @@
 
 echo "=== Validating Nginx Service ==="
 # Check if nginx service is running
-systemctl is-active --quiet nginx && echo "Nginx is running ✅" || echo "Nginx is NOT running ❌"
+systemctl is-active --quiet infra-demo && echo "Infra Demo Service is running ✅" || echo "Infra Demo Service is NOT running ❌"
 
 echo "=== Validating Firewall ==="
 # Check if firewall is active
