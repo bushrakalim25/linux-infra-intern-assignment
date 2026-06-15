@@ -42,4 +42,4 @@ Repo initialized on June 14, 2026
 ## 🎥 Demo Video
 
 👉 Watch Demo Video:
-https://drive.google.com/file/d/1Bp2uAPwAvPoNPRw2bqQhFOgpRu6yDLqS/view?usp=drive_link
+https://youtu.be/LzTflI2h9MQ
